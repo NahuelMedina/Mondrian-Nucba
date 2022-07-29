@@ -1,0 +1,249 @@
+* {
+    box-sizing: border-box;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+    font-size: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.container4 {
+    display: flex;
+    flex-direction: row;
+}
+
+.div-1 {
+    background-color: white;
+    height: 200px;
+    width: 80px;
+    border-right: 10px solid black;
+    border-bottom: 20px solid black;
+}
+
+.div-2 {
+    background-color: yellow;
+    height: 200px;
+    width: 140px;
+    border-left: 10px solid black;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.div-3 {
+    background-color: blue;
+    height: 200px;
+    width: 400px;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.div-4 {
+    background-color: red;
+    height: 200px;
+    width: 450px;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-5 {
+    background-color: yellow;
+    height: 200px;
+    width: 130px;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-6 {
+    background-color: white;
+    height: 200px;
+    width: 145px;
+    border-width: 0px 0px 20px 10px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.div-7 {
+    background-color: white;
+    height: 250px;
+    width: 80px;
+    border-width: 0px 10px 20px 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-8 {
+    background-color: white;
+    height: 250px;
+    width: 140px;
+    border-left: 10px solid black;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-9 {
+    background-color: white;
+    height: 250px;
+    width: 400px;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-10 {
+    background-color: white;
+    height: 250px;
+    width: 150px;
+    border-left: 10px solid black;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-11 {
+    background-color: blue;
+    height: 250px;
+    width: 300px;
+    border-left: 10px solid black;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-12 {
+    background-color: red;
+    height: 250px;
+    width: 130px;
+    border-width: 0px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-13 {
+    background-color: white;
+    height: 250px;
+    width: 145px;
+    border-width: 0px 0px 0px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-14 {
+    background-color: white;
+    height: 150px;
+    width: 80px;
+    border-width: 0px 10px 0px 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-15 {
+    background-color: white;
+    height: 150px;
+    width: 140px;
+    border-width: 0px 10px 10px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-16 {
+    background-color: red;
+    height: 150px;
+    width: 550px;
+    border-width: 0px 10px 10px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-17 {
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    border-width: 0px 10px 10px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-18 {
+    background-color: yellow;
+    height: 150px;
+    width: 130px;
+    border-width: 0px 10px 10px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-19 {
+    background-color: white;
+    height: 150px;
+    width: 145px;
+    border-width: 0px 0px 10px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-20 {
+    background-color: white;
+    height: 160px;
+    width: 80px;
+    border-width: 0px 10px 0px 0px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-21 {
+    background-color: blue;
+    height: 160px;
+    width: 140px;
+    border-width: 10px 10px 0px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-22 {
+    background-color: yellow;
+    height: 160px;
+    width: 550px;
+    border-width: 10px 10px 0px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-23 {
+    background-color: white;
+    height: 160px;
+    width: 430px;
+    border-width: 10px 10px 0px 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.div-24 {
+    background-color: white;
+    height: 160px;
+    width: 145px;
+    border-width: 10px 0px 0px 10px;
+    border-style: solid;
+    border-color: black;
+}
