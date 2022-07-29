@@ -30,8 +30,9 @@
     background-color: white;
     height: 200px;
     width: 80px;
-    border-right: 10px solid black;
-    border-bottom: 20px solid black;
+    border-width: 10px 10px 20px 10px;
+    border-style: solid;
+    border-color: black;
 }
 
 .div-2 {
@@ -39,7 +40,7 @@
     height: 200px;
     width: 140px;
     border-left: 10px solid black;
-    border-width: 0px 10px 20px 10px;
+    border-width: 10px 10px 20px 10px;
     border-style: solid;
     border-color: black;
 
@@ -49,7 +50,7 @@
     background-color: blue;
     height: 200px;
     width: 400px;
-    border-width: 0px 10px 20px 10px;
+    border-width: 10px 10px 20px 10px;
     border-style: solid;
     border-color: black;
 
@@ -59,7 +60,7 @@
     background-color: red;
     height: 200px;
     width: 450px;
-    border-width: 0px 10px 20px 10px;
+    border-width: 10px 10px 20px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -68,7 +69,7 @@
     background-color: yellow;
     height: 200px;
     width: 130px;
-    border-width: 0px 10px 20px 10px;
+    border-width: 10px 10px 20px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -76,8 +77,8 @@
 .div-6 {
     background-color: white;
     height: 200px;
-    width: 145px;
-    border-width: 0px 0px 20px 10px;
+    width: 140px;
+    border-width: 10px 10px 20px 10px;
     border-style: solid;
     border-color: black;
 
@@ -87,7 +88,7 @@
     background-color: white;
     height: 250px;
     width: 80px;
-    border-width: 0px 10px 20px 0px;
+    border-width: 0px 10px 20px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -143,8 +144,8 @@
 .div-13 {
     background-color: white;
     height: 250px;
-    width: 145px;
-    border-width: 0px 0px 0px 10px;
+    width: 140px;
+    border-width: 0px 10px 0px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -153,7 +154,7 @@
     background-color: white;
     height: 150px;
     width: 80px;
-    border-width: 0px 10px 0px 0px;
+    border-width: 0px 10px 0px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -197,8 +198,8 @@
 .div-19 {
     background-color: white;
     height: 150px;
-    width: 145px;
-    border-width: 0px 0px 10px 10px;
+    width: 140px;
+    border-width: 0px 10px 10px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -207,7 +208,7 @@
     background-color: white;
     height: 160px;
     width: 80px;
-    border-width: 0px 10px 0px 0px;
+    border-width: 0px 10px 10px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -216,7 +217,7 @@
     background-color: blue;
     height: 160px;
     width: 140px;
-    border-width: 10px 10px 0px 10px;
+    border-width: 10px 10px 10px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -225,7 +226,7 @@
     background-color: yellow;
     height: 160px;
     width: 550px;
-    border-width: 10px 10px 0px 10px;
+    border-width: 10px 10px 10px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -234,7 +235,7 @@
     background-color: white;
     height: 160px;
     width: 430px;
-    border-width: 10px 10px 0px 10px;
+    border-width: 10px 10px 10px 10px;
     border-style: solid;
     border-color: black;
 }
@@ -242,8 +243,8 @@
 .div-24 {
     background-color: white;
     height: 160px;
-    width: 145px;
-    border-width: 10px 0px 0px 10px;
+    width: 140px;
+    border-width: 10px 10px 10px 10px;
     border-style: solid;
     border-color: black;
 }
